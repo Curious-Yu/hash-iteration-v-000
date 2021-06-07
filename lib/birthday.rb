@@ -12,5 +12,6 @@ def happy_birthday(birthday_kids)
   "Amanda" => 27
   }
 
-  birthday_kids.each do |
+  birthday_kids.each do |name, age|
+    
 end
